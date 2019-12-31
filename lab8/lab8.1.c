@@ -1,4 +1,3 @@
-// Endeiktiki Lysi tis Askisis 8.1 - Ak. Etos 2019-2020
 
 #include <stdio.h>      /* For scanf, printf, puts */
 #include <stdlib.h>     /* For exit */
