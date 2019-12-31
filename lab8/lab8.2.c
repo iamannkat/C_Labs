@@ -1,4 +1,4 @@
-// Endeiktiki Lysi tis Askisis 8.2 - Ak. Etos 2019-2020
+
 
 #include <stdio.h>
 #include <sys/wait.h>
