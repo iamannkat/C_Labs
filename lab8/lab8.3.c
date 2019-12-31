@@ -1,5 +1,3 @@
-// Endeiktiki Lysi tis Askisis 8.3 - Ak. Etos 2019-2020
-
 /* Simple program to plot using gnuplot */
 #include <stdio.h>
 #include <stdlib.h>
